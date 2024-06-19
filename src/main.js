@@ -6,7 +6,7 @@ const host = "localhost",
 const requestListener = function (req, res) {
   res.setHeader('Content-Type', 'text/plain');
   res.writeHead(200);
-  res.end("My first server!");
+  res.end("My first Server!");
 };
 
 const server = http.createServer(requestListener);
