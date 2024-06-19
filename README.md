@@ -1,4 +1,4 @@
-# This is a readme file. This usually contains information of the project, and how to run it locally. Now I will provide a small tutorial of a task I want you all to do. Since our idea revolves around a Node.js backend server and fronted, I want all of you to create a super simple node.js server, to see how it works, and deploy it to git to your own branch, to learn a bit of github handling too.
+### This is a readme file. This usually contains information of the project, and how to run it locally. Now I will provide a small tutorial of a task I want you all to do. Since our idea revolves around a Node.js backend server and fronted, I want all of you to create a super simple node.js server, to see how it works, and deploy it to git to your own branch, to learn a bit of github handling too.
 
 The steps I want everyone to take:
   0. SETUP:
@@ -36,4 +36,4 @@ The steps I want everyone to take:
         git push
     # Note that if you are pushing for the first time, you might need to use the "git push --set-upstream origin your_branch_name" command instead. You only need to use this the first time, when your local branch does not exist in the Remote repository yet.
 
-# And with this you should be done. Please note that the scope of this exercise is to set up most of the necessery environments, start to get familiar with running a node.js server and start to get accustomed to using git. If you are already familiar with these technologies, feel free to use whatever you like (eg. Sourcetree for git handling etc.) Note that I do not want you to merge your branch into master, at the end of this exercise I want to see 6 branches next to master, 1 from each of you. 
+### And with this you should be done. Please note that the scope of this exercise is to set up most of the necessery environments, start to get familiar with running a node.js server and start to get accustomed to using git. If you are already familiar with these technologies, feel free to use whatever you like (eg. Sourcetree for git handling etc.) Note that I do not want you to merge your branch into master, at the end of this exercise I want to see 6 branches next to master, 1 from each of you. 
