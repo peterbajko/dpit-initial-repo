@@ -1,12 +1,12 @@
 import http from "node:http";
 
 const host = "localhost",
-  port = 6000;
+  port = 8000;
 
 const requestListener = function (req, res) {
   res.setHeader('Content-Type', 'text/plain');
   res.writeHead(200);
-  res.end("My first Server!");
+  res.end("Oana s first Server!");
 };
 
 const server = http.createServer(requestListener);
